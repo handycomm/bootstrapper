@@ -1,5 +1,5 @@
 {
-  "name": "handycomm/bootstrapper",
+  "name": "patricktalmadge/bootstrapper",
   "description": "Twitter Bootstrap markup generator. Laravel5 version required laravelcollective/html.",
   "license": "MIT",
   "keywords": [
